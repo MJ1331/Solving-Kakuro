@@ -1,5 +1,5 @@
-# Solving-Kakuro
-INTRODUCTION
+
+#INTRODUCTION
 Kakuro, also known as Cross Sums or Crosswords, is a logic-based puzzle game that combines elements of crossword puzzles and Sudoku. The objective of Kakuro is to fill in a grid with numbers from 1 to 9, similar to Sudoku, but with the additional constraint that the numbers must add up to specific target sums.
 
 The Kakuro grid consists of blank white cells and shaded cells, where the shaded cells represent "clues" or "sums." Each clue consists of a number written in the shaded cell along with an arrow pointing either horizontally or vertically. The number represents the sum of the digits that should be placed in the adjacent white cells, either to the right or downwards from the clue.
